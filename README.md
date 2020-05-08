@@ -1,5 +1,5 @@
-# Build-of-an-Image-s-Mosaic-MATLAB-
-Building a mosaic of images using MATLAB
+# Build of an Image's Mosaic
+Building a mosaic of images using Matlab
 
 Recalage par corrélation de phase - Application à la construction d'une mosaïque d'images
 
